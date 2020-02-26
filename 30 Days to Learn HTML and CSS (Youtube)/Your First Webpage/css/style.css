@@ -1,0 +1,29 @@
+a {
+	color: red; text-decoration:none;
+}
+
+h1 {
+	color: green; font-family: sans-serif;
+}
+
+div {
+	width: 500px;
+	margin: auto;
+	background: red;
+	text-align: center;
+}
+
+ol {
+	color: orange;
+}
+
+	#emphasis {
+		color: blue;
+	}
+
+	.classexample {
+		color: brown;
+	}
+	li:nth-child(1) {
+		color: teal;
+	}
