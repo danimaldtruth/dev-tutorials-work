@@ -1,0 +1,33 @@
+.wrap {
+	width: 80%;
+	min-width: 600px;
+	margin: auto;
+}
+
+
+.content, aside {
+	height: 600px;
+}
+
+.content {
+	background: red;
+	float: left;
+	margin: auto;
+	width: 90%;
+}
+
+aside {
+	background: brown;
+	float: left;
+	width: 10%;
+	padding-left: 0;
+	text-align: center;
+}
+
+aside ul {
+	list-style: none;
+}
+
+footer {
+	clear: both;
+}
