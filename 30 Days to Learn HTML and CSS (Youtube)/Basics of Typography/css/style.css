@@ -1,0 +1,23 @@
+body {
+	background: #yellow;
+}
+
+
+h1 {
+	font-size: 120px;
+	text-align: center;
+	margin-top: 50px;
+	font-family: sans-serif;
+	letter-spacing: -5px;
+	color: #666;
+	text-transform: lowercase;
+	text-shadow: 0 2px 5px green;
+	font-variant: small-caps;
+	font-family: 'Indie Flower';
+
+
+}
+
+p {
+	letter-spacing: 5px;
+}
